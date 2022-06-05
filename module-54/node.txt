@@ -1,0 +1,2 @@
+1.react createcontext (website) props kora chra onek jaygay createcontext diye kaj kora jay.
+2.react developer tools downlod korte hobe,(website) diye inspect kore components gulo dekha jay.
